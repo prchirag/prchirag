@@ -16,11 +16,9 @@ I am an Energy Engineer with experience in:
 
 🎓 Erasmus Mundus Scholar
 
-- MSc Project Management for Environmental & Energy Engineering
-- IMT Atlantique, France
+- MSc Project Management for Environmental & Energy Engineering from IMT Atlantique, France
 
-- MSc Energy Engineering
-- University of Trento & Free University of Bozen-Bolzano, Italy
+- MSc Energy Engineering from University of Trento & Free University of Bozen-Bolzano, Italy
 
 ## Current Work
 
