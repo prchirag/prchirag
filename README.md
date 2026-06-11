@@ -42,5 +42,5 @@ Python | Pandas | NumPy | Scikit-learn | Power BI | MATLAB | HOMER Pro | RETScre
 
 ## Contact
 
-LinkedIn: linkedin.com/in/chiragparekh4
+LinkedIn: [linkedin.com/in/chiragparekh4](https://linkedin.com/in/chiragparekh4)
 Email: parekh.chirag@hotmail.com
